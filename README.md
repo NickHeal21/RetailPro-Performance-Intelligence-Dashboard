@@ -18,10 +18,10 @@ Total Revenue, Average Order Value, Orders Count, Total Shipping Cost, Average C
 <!-- Fill in: where the data came from (public dataset, generated, etc.) -->
 
 ## Screenshots
-![Executive Dashboard](screenshots/ExecutiveDashboard.png)
-![Sales Analytics](screenshots/SalesandRevenue.png)
-![Inventory & Logistics](screenshots/InventoryandLogistics.png)
-![Customer Insights](screenshots/CustomerInsights.png)
+![Executive Dashboard](screenshots/Executive Dashboard.png)
+![Sales Analytics](screenshots/Sales and Revenue.png)
+![Inventory & Logistics](screenshots/Inventory and Logistics.png)
+![Customer Insights](screenshots/Customer Insights.png)
 
 ## How to Open
 Download the `.pbix` file and open it with Power BI Desktop (Windows).
