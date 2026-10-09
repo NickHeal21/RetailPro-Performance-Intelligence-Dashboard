@@ -18,7 +18,10 @@ Total Revenue, Average Order Value, Orders Count, Total Shipping Cost, Average C
 <!-- Fill in: where the data came from (public dataset, generated, etc.) -->
 
 ## Screenshots
-[View the full dashboard (PDF)](screenshots/RetailSphere_Dashboard.pdf)
+![Executive Dashboard](screenshots/ExecutiveDashboard.png)
+![Sales Analytics](screenshots/SalesandRevenue.png)
+![Inventory & Logistics](screenshots/InventoryandLogistics.png)
+![Customer Insights](screenshots/CustomerInsights.png)
 
 ## How to Open
 Download the `.pbix` file and open it with Power BI Desktop (Windows).
